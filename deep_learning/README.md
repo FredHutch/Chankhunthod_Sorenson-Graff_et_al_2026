@@ -1,4 +1,4 @@
-Step 1: Organize image files and directories as show:
+Step 1: Organize image files and directories as shown:
 
         data/
          ├── serial-lt-hsc/
